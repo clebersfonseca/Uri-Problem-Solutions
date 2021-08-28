@@ -14,6 +14,6 @@ while not acaba:
          print('terceiro')
     else:
         if not acaba:
-        print('segundo')
+            print('segundo')
          
     
